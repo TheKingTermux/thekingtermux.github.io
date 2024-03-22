@@ -6,15 +6,15 @@ Pembina Remas (Ust. Dedik)
      │            └── Opit
      ├── Sekretaris  └── Seksi - Seksi
      │   └── Aril, Desy  ├── Koordinator Lapangan
-     │                     │    └── Achmad
+     │                     │   └── Achmad
      └── Bendahara        ├── Koordinator Acara
-          └── Melina      │    └── Rafi, Helen
+          └── Melina      │   └── Rafi, Helen
                             ├── Perlengkapan 
-                            │    └── Hagi
+                            │   └── Hagi
                             ├── Konsumsi
-                            │    └── Masyayu
+                            │   └── Masyayu
                             ├── PDD + Dekor
-                            │    └── Vian, Lidya 
+                            │   └── Vian, Lidya 
                             └── MC
                                  └── Aril, Safira
 ```
